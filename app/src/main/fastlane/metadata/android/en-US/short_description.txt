@@ -1,0 +1,1 @@
+Privacy-focused messenger using standard Email (IMAP/SMTP) for communication.
