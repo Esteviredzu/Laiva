@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Laiva</string>
+
+    <string name="title_chats">Чаты</string>
+    <string name="no_contacts">Список контактов пуст</string>
+    <string name="all_messages">Все сообщения</string>
+    <string name="add_contact_desc">Добавить новый контакт</string>
+
+    <string name="title_settings">Настройки</string>
+    <string name="app_language">Язык приложения</string>
+    <string name="about_app">О приложении</string>
+    <string name="app_version">Версия</string>
+    <string name="profile_setup">Настройка профиля</string>
+
+    <string name="section_security">Безопасность</string>
+    <string name="pin_protection">Защита PIN-кодом</string>
+    <string name="pin_active">Код активен</string>
+    <string name="pin_not_set">Код не задан</string>
+    <string name="setup_pins">Настроить PIN-коды</string>
+    <string name="change_pins">Изменить PIN-коды</string>
+    <string name="pins_saved">PIN-коды сохранены</string>
+
+    <string name="section_filtering">Фильтрация</string>
+    <string name="only_contacts">Только от контактов</string>
+    <string name="only_contacts_desc">Игнорировать сообщения от неизвестных адресов</string>
+    <string name="ignore_new_groups">Игнорировать новые группы</string>
+    <string name="ignore_new_groups_desc">Игнорировать сообщения из новых групп, в которые меня добавили</string>
+
+    <string name="dialog_pin_title">Настройка PIN</string>
+    <string name="pin_requirements">Требования: минимум 4 цифры. Один код не может быть началом другого.</string>
+    <string name="label_main_pin">Основной PIN</string>
+    <string name="label_panic_pin">PIN Паники</string>
+    <string name="error_pin_length">Минимум 4 цифры!</string>
+    <string name="error_pin_match">Коды не должны совпадать!</string>
+    <string name="error_pin_conflict">Коды конфликтуют (один — начало другого)!</string>
+
+    <string name="lang_en">🇺🇸 English</string>
+    <string name="lang_ru">🇷🇺 Русский</string>
+    <string name="lang_lv">🇱🇻 Latviešu</string>
+    <string name="lang_eo">🇪🇴 Esperanto</string>
+
+    <string name="title_new_contact">Новый контакт</string>
+    <string name="label_name">Имя</string>
+    <string name="label_email">Email</string>
+    <string name="label_encrypt_key">Ключ шифрования</string>
+    <string name="btn_save_contact">Сохранить контакт</string>
+    <string name="qr_scan_desc">Сканировать QR-код</string>
+    <string name="hint_message">Сообщение...</string>
+    <string name="btn_back">Назад</string>
+    <string name="unknown_user">Неизвестный пользователь</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="done">Готово</string>
+    <string name="close">Закрыть</string>
+
+
+
+
+
+    <string name="my_qr_code">Мой QR-код</string>
+    <string name="enter_contact_string">Вставь ссылку контакта сюда</string>
+
+
+
+    <string name="contact_label">Контакт:</string>
+    <string name="name_label">Имя: %1$s</string>
+    <string name="email_label">Email: %1$s</string>
+    <string name="scan_hint">Наведи камеру на QR контакта</string>
+    <string name="share_title">Поделиться</string>
+    <string name="copy_cd">Копировать</string>
+    <string name="share_cd">Поделиться</string>
+
+    <string name="title_create_group">Создать группу</string>
+    <string name="label_group_name">Название группы</string>
+    <string name="placeholder_group_name">Например: Команда проекта</string>
+    <string name="select_members">Выберите участников</string>
+    <string name="btn_create_group">Создать группу</string>
+    <string name="no_contacts_available">Список контактов пуст</string>
+
+
+    <string name="dont_overload_server">Не насилуйте сервер! 25 мегабайт максимум!</string>
+
+
+    <string name="enter_camera">Наведи камеру на QR</string>
+
+
+    <string name="rename">Переименовать</string>
+    <string name="delete">Удалить</string>
+
+
+    <string name="login_title">Вход в Laiva</string>
+    <string name="login_subtitle">Введите данные вашей почты</string>
+    <string name="label_password">Пароль</string>
+    <string name="btn_next">Далее</string>
+    <string name="btn_register_desc">Нет аккаунта? Регистрация на сервере разработчика</string>
+    <string name="error_invalid_email">Введите корректный Email</string>
+    <string name="error_auth_failed">Неверный логин, пароль или сервер недоступен</string>
+
+
+</resources>

@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Laiva</string>
+
+    <string name="title_chats">Babiloj</string>
+    <string name="no_contacts">La kontaktlisto estas malplena</string>
+    <string name="all_messages">Ĉiuj mesaĝoj</string>
+    <string name="add_contact_desc">Aldoni novan kontakton</string>
+
+    <string name="title_settings">Agordoj</string>
+    <string name="app_language">Lingvo de la aplikaĵo</string>
+    <string name="about_app">Pri la aplikaĵo</string>
+    <string name="app_version">Versio</string>
+    <string name="profile_setup">Agordi profilon</string>
+
+    <string name="section_security">Sekureco</string>
+    <string name="pin_protection">Protekto per PIN-kodo</string>
+    <string name="pin_active">Kodo estas aktiva</string>
+    <string name="pin_not_set">Kodo ne estas agordita</string>
+    <string name="setup_pins">Agordi PIN-kodojn</string>
+    <string name="change_pins">Ŝanĝi PIN-kodojn</string>
+    <string name="pins_saved">PIN-kodoj sukcese konservitaj</string>
+
+    <string name="section_filtering">Filtrado</string>
+    <string name="only_contacts">Nur de kontaktoj</string>
+    <string name="only_contacts_desc">Ignori mesaĝojn de nekonataj adresoj</string>
+    <string name="ignore_new_groups">Ignori novajn grupojn</string>
+    <string name="ignore_new_groups_desc">Ignori mesaĝojn el novaj grupoj, al kiuj mi estis aldonita</string>
+
+    <string name="dialog_pin_title">Agordo de PIN</string>
+    <string name="pin_requirements">Postuloj: minimume 4 ciferoj. Unu kodo ne povas esti komenco de alia.</string>
+    <string name="label_main_pin">Ĉefa PIN</string>
+    <string name="label_panic_pin">Panika PIN</string>
+    <string name="error_pin_length">Minimume 4 ciferoj necesas!</string>
+    <string name="error_pin_match">Kodoj ne rajtas esti samaj!</string>
+    <string name="error_pin_conflict">Kodoj konfliktas (unu estas komenco de la alia)!</string>
+
+    <string name="lang_en">🇺🇸 English</string>
+    <string name="lang_ru">🇷🇺 Русский</string>
+    <string name="lang_lv">🇱🇻 Latviešu</string>
+    <string name="lang_eo">🇪🇴 Esperanto</string>
+
+    <string name="title_new_contact">Nova kontakto</string>
+    <string name="label_name">Nomo</string>
+    <string name="label_email">Retpoŝto</string>
+    <string name="label_encrypt_key">Ĉifra ŝlosilo</string>
+    <string name="btn_save_contact">Konservi kontakton</string>
+    <string name="qr_scan_desc">Skani QR-kodon</string>
+    <string name="hint_message">Mesaĝo...</string>
+    <string name="btn_back">Reen</string>
+    <string name="unknown_user">Nekonata uzanto</string>
+
+    <string name="cancel">Nuligi</string>
+    <string name="save">Konservi</string>
+    <string name="done">Farite</string>
+    <string name="close">Fermi</string>
+
+    <string name="my_qr_code">Mia QR-kodo</string>
+    <string name="enter_contact_string">Enmetu kontaktligilon ĉi tie</string>
+
+    <string name="contact_label">Kontakto:</string>
+    <string name="name_label">Nomo: %1$s</string>
+    <string name="email_label">Retpoŝto: %1$s</string>
+    <string name="scan_hint">Direktu la fotilon al la QR-kodo de la kontakto</string>
+    <string name="share_title">Dividi</string>
+    <string name="copy_cd">Kopii</string>
+    <string name="share_cd">Dividi</string>
+
+    <string name="title_create_group">Krei grupon</string>
+    <string name="label_group_name">Gruponomo</string>
+    <string name="placeholder_group_name">ekz. Projekta teamo</string>
+    <string name="select_members">Elekti membrojn</string>
+    <string name="btn_create_group">Krei grupon</string>
+    <string name="no_contacts_available">Via kontaktlisto estas malplena</string>
+
+    <string name="dont_overload_server">Ne troŝarĝu la servilon! Maksimume 25 megabajtoj!</string>
+
+    <string name="enter_camera">Celu vian fotilon al la QR-kodo</string>
+
+
+    <string name="rename">Renomi</string>
+    <string name="delete">Forigi</string>
+
+
+
+    <string name="login_title">Ensaluti al Laiva</string>
+    <string name="login_subtitle">Enigu viajn retpoŝtajn datumojn</string>
+    <string name="label_password">Pasvorto</string>
+    <string name="btn_next">Sekva</string>
+    <string name="btn_register_desc">Ĉu vi ne havas konton? Registriĝu ĉe la servilo de la programisto</string>
+    <string name="error_invalid_email">Enigu validan retpoŝtadreson</string>
+    <string name="error_auth_failed">Nevalida ensalutnomo, pasvorto aŭ servilo neatingebla</string>
+
+
+</resources>

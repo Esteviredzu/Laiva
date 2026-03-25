@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Laiva</string>
+
+    <string name="title_chats">Chats</string>
+    <string name="no_contacts">No contacts yet</string>
+    <string name="all_messages">All messages</string>
+    <string name="add_contact_desc">Add new contact</string>
+
+    <string name="title_settings">Settings</string>
+    <string name="app_language">App language</string>
+    <string name="about_app">About app</string>
+    <string name="app_version">Version</string>
+    <string name="profile_setup">Profile Setup</string>
+
+    <string name="section_security">Security</string>
+    <string name="pin_protection">PIN Protection</string>
+    <string name="pin_active">PIN active</string>
+    <string name="pin_not_set">PIN not set</string>
+    <string name="setup_pins">Setup PINs</string>
+    <string name="change_pins">Change PINs</string>
+    <string name="pins_saved">PINs saved successfully</string>
+
+    <string name="section_filtering">Filtering</string>
+    <string name="only_contacts">Contacts only</string>
+    <string name="only_contacts_desc">Ignore messages from unknown addresses</string>
+    <string name="ignore_new_groups">Ignore new groups</string>
+    <string name="ignore_new_groups_desc">Ignore messages from new groups I was added to</string>
+
+    <string name="dialog_pin_title">PIN Setup</string>
+    <string name="pin_requirements">Requirements: minimum 4 digits. One code cannot be a prefix of another.</string>
+    <string name="label_main_pin">Main PIN</string>
+    <string name="label_panic_pin">Panic PIN</string>
+    <string name="error_pin_length">Minimum 4 digits required!</string>
+    <string name="error_pin_match">Codes must not match!</string>
+    <string name="error_pin_conflict">Codes conflict (one is a prefix of another)!</string>
+
+    <string name="lang_en">🇺🇸 English</string>
+    <string name="lang_ru">🇷🇺 Русский</string>
+    <string name="lang_lv">🇱🇻 Latviešu</string>
+    <string name="lang_eo">🇪🇴 Esperanto</string>
+
+    <string name="title_new_contact">New Contact</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_encrypt_key">Encryption Key</string>
+    <string name="btn_save_contact">Save Contact</string>
+    <string name="qr_scan_desc">Scan QR Code</string>
+    <string name="hint_message">Message...</string>
+    <string name="btn_back">Back</string>
+    <string name="unknown_user">Unknown User</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="close">Close</string>
+
+    <string name="my_qr_code">My QR Code</string>
+    <string name="enter_contact_string">Paste contact link here</string>
+
+    <string name="contact_label">Contact:</string>
+    <string name="name_label">Name: %1$s</string>
+    <string name="email_label">Email: %1$s</string>
+    <string name="scan_hint">Point camera at contact\'s QR code</string>
+    <string name="share_title">Share</string>
+    <string name="copy_cd">Copy</string>
+    <string name="share_cd">Share</string>
+
+
+
+    <string name="title_create_group">Create Group</string>
+    <string name="label_group_name">Group Name</string>
+    <string name="placeholder_group_name">e.g. Project Team</string>
+    <string name="select_members">Select Members</string>
+    <string name="btn_create_group">Create Group</string>
+    <string name="no_contacts_available">Your contact list is empty</string>
+
+
+
+    <string name="dont_overload_server">Don\'t overload the server! 25 megabytes maximum!</string>
+
+
+    <string name="enter_camera">Point your camera at the QR</string>
+
+
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+
+
+    <string name="login_title">Login to Laiva</string>
+    <string name="login_subtitle">Enter your email credentials</string>
+    <string name="label_password">Password</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_register_desc">No account? Register on the developer\'s server</string>
+    <string name="error_invalid_email">Enter a valid email</string>
+    <string name="error_auth_failed">Invalid login, password, or server unavailable</string>
+
+
+
+
+
+
+
+</resources>

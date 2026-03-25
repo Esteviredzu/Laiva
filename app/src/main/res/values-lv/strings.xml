@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Laiva</string>
+
+    <string name="title_chats">Tērzēšanas</string>
+    <string name="no_contacts">Kontaktu saraksts ir tukšs</string>
+    <string name="all_messages">Visi ziņojumi</string>
+    <string name="add_contact_desc">Pievienot jaunu kontaktu</string>
+
+    <string name="title_settings">Iestatījumi</string>
+    <string name="app_language">Lietotnes valoda</string>
+    <string name="about_app">Par lietotni</string>
+    <string name="app_version">Versija</string>
+    <string name="profile_setup">Profila iestatīšana</string>
+
+    <string name="section_security">Drošība</string>
+    <string name="pin_protection">Aizsardzība ar PIN kodu</string>
+    <string name="pin_active">Kods ir aktīvs</string>
+    <string name="pin_not_set">Kods nav iestatīts</string>
+    <string name="setup_pins">Iestatīt PIN kodus</string>
+    <string name="change_pins">Mainīt PIN kodus</string>
+    <string name="pins_saved">PIN kodi saglabāti veiksmīgi</string>
+
+    <string name="section_filtering">Filtrēšana</string>
+    <string name="only_contacts">Tikai no kontaktiem</string>
+    <string name="only_contacts_desc">Ignorēt ziņojumus no nezināmām adresēm</string>
+    <string name="ignore_new_groups">Ignorēt jaunas grupas</string>
+    <string name="ignore_new_groups_desc">Ignorēt ziņojumus no jaunām grupām, kurās esmu pievienots</string>
+
+    <string name="dialog_pin_title">PIN iestatīšana</string>
+    <string name="pin_requirements">Prasības: vismaz 4 cipari. Viens kods nevar būt otra sākums.</string>
+    <string name="label_main_pin">Galvenais PIN</string>
+    <string name="label_panic_pin">Trauksmes PIN</string>
+    <string name="error_pin_length">Nepieciešami vismaz 4 cipari!</string>
+    <string name="error_pin_match">Kodi nedrīkst sakrist!</string>
+    <string name="error_pin_conflict">Kodu konflikts (viens ir otra sākums)!</string>
+
+    <string name="lang_en">🇺🇸 English</string>
+    <string name="lang_ru">🇷🇺 Русский</string>
+    <string name="lang_lv">🇱🇻 Latviešu</string>
+    <string name="lang_eo">🇪🇴 Esperanto</string>
+
+    <string name="title_new_contact">Jauns kontakts</string>
+    <string name="label_name">Vārds</string>
+    <string name="label_email">E-pasts</string>
+    <string name="label_encrypt_key">Šifrēšanas atslēga</string>
+    <string name="btn_save_contact">Saglabāt kontaktu</string>
+    <string name="qr_scan_desc">Skenēt QR kodu</string>
+    <string name="hint_message">Ziņojums...</string>
+    <string name="btn_back">Atpakaļ</string>
+    <string name="unknown_user">Nezināms lietotājs</string>
+
+    <string name="cancel">Atcelt</string>
+    <string name="save">Saglabāt</string>
+    <string name="done">Gatavs</string>
+    <string name="close">Aizvērt</string>
+
+    <string name="my_qr_code">Mans QR kods</string>
+    <string name="enter_contact_string">Ielīmējiet kontakta saiti šeit</string>
+
+    <string name="contact_label">Kontakts:</string>
+    <string name="name_label">Vārds: %1$s</string>
+    <string name="email_label">E-pasts: %1$s</string>
+    <string name="scan_hint">Pavērsiet kameru pret kontakta QR kodu</string>
+    <string name="share_title">Kopīgot</string>
+    <string name="copy_cd">Kopēt</string>
+    <string name="share_cd">Kopīgot</string>
+
+    <string name="title_create_group">Izveidot grupu</string>
+    <string name="label_group_name">Grupas nosaukums</string>
+    <string name="placeholder_group_name">piem. Projekta komanda</string>
+    <string name="select_members">Izvēlēties dalībniekus</string>
+    <string name="btn_create_group">Izveidot grupu</string>
+    <string name="no_contacts_available">Jūsu kontaktu saraksts ir tukšs</string>
+
+    <string name="dont_overload_server">Nepārslogojiet serveri! Maksimāli 25 megabaiti!</string>
+
+
+    <string name="enter_camera">Pavērsiet kameru pret QR</string>
+
+    <string name="rename">Pārdēvēt</string>
+    <string name="delete">Dzēst</string>
+
+
+    <string name="login_title">Pieteikties Laiva</string>
+    <string name="login_subtitle">Ievadiet savu e-pasta informāciju</string>
+    <string name="label_password">Parole</string>
+    <string name="btn_next">Tālāk</string>
+    <string name="btn_register_desc">Nav konta? Reģistrējieties izstrādātāja serverī</string>
+    <string name="error_invalid_email">Ievadiet derīgu e-pastu</string>
+    <string name="error_auth_failed">Nepareizs lietotājvārds, parole vai serveris nav pieejams</string>
+
+
+
+
+
+</resources>
