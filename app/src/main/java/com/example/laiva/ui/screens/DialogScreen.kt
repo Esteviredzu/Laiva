@@ -1,5 +1,9 @@
 package com.example.laiva.ui.screens
 
+
+import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.material3.ExperimentalMaterial3Api
+
 import android.util.Log
 import android.net.Uri
 import androidx.compose.foundation.layout.*
@@ -93,7 +97,7 @@ fun isEmail(value: String): Boolean {
 
 
 
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalFoundationApi::class)
 @Composable
 fun DialogScreen(
     contactEmail: String,
