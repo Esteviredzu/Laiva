@@ -28,7 +28,7 @@
 ## 🛠 Стек технологий
 * **UI:** Jetpack Compose + Material 3.
 * **Database:** Room (SQLite) - всё хранится только у вас в телефоне.
-* **Encryption:** Android Keystore + AES/RSA.
+* **Encryption:** AES/RSA.
 * **Network:** JavaMail API.
 <img width="1080" height="2400" alt="5" src="https://github.com/user-attachments/assets/67eb9893-2bd0-40ed-aaa1-4f5d80bd2607" />
 <img width="1080" height="2400" alt="4" src="https://github.com/user-attachments/assets/860fc495-eb7b-4f7a-9aa2-67aa331176b8" />
