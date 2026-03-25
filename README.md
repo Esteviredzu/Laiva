@@ -6,7 +6,7 @@
 
 ## 📥 Скачать (Download)
 Первая альфа-версия (будет кусаться и баговать):  
-**[👉 Скачать Laiva_v1.0.apk](https://github.com/ТВОЙ_ЛОГИН/Laiva/releases/latest)**
+**[👉 Скачать Laiva_v1.0.apk](https://github.com/Esteviredzu/Laiva/releases/latest)**
 
 ---
 
