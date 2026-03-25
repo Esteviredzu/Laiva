@@ -1,0 +1,15 @@
+Laiva is a decentralized, privacy-focused messenger that transforms your standard email server into a secure chat platform. While industry giants collect your metadata, Laiva simply sends encrypted emails that no one but you and your recipient can read.
+
+Key Features:
+
+- **True Independence:** Use any email provider (IMAP/SMTP) or host your own server. No central authority, no proprietary servers.
+- **End-to-End Encryption (E2EE):** Messages are encrypted locally on your device using AES + RSA. Your provider and third parties cannot access your conversations.
+- **No Data Collection:** No phone number required, no contact syncing, and no tracking.
+- **Open Source:** Full transparency — the code is open for audit and contributions.
+
+Technical Stack:
+- UI: Jetpack Compose with Material 3.
+- Database: Room (SQLite) - all data stays on your device.
+- Network: JavaMail API.
+
+Note: This is an early alpha version. As a student project, it may contain bugs in audio playback and message status indicators. We appreciate your feedback and contributions!
