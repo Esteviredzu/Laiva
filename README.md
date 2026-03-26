@@ -31,6 +31,11 @@
 
 В репозитории фреймворка вы найдете пример создания ботов.
 
+Официальный бот погоды, пишите "погода Москва", получите погоду в Москве, либо "weather [город]":
+```
+laiva://contact?name=weather&email=weather%40stupidsitec.mooo.com&pubkey=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvx3fCPi6r%2BPc%2FpY02msjezcgQqw2WwBTk2GNyEDsaN8y0iZcIqzGdQLmzRbcrmea570jM0FxnHmVCdXAzkq6Cm3H1SAykjhV6wM1IBf%2BJ7eG0%2BIzYCQSbx7HRADFUJGUU4rElOJNuuVynGmpR%2FkOTewMGaboo9oABnmhTziWpJ9%2FTcdVPlxv8951rvisnVwYkYHKS11gBI4Hdbv97NftMKV7ktHaZyJF%2BpSVws3iJ%2FRbWFh%2Fla9E%2FsKlT6vya9TM%2BDCMIuqe5BAmpBZjP3zZMk%2BP%2Bskd4pMIpTnen%2FKQ0pc%2BVLVszOMyeTbeSEcsGt1CSFn2r4hv0Ne7XsADlpoufwIDAQAB
+```
+
 ---
 
 
