@@ -25,6 +25,15 @@
 
 ---
 
+## 🤖 Создайте своего Laiva-бота!
+
+**[👉 Перейти к Laiva Bot Framework (Python)](https://github.com/Esteviredzu/Laiva-bot)**
+
+В репозитории фреймворка вы найдете пример создания ботов.
+
+---
+
+
 ## 🛠 Стек технологий
 * **UI:** Jetpack Compose + Material 3.
 * **Database:** Room (SQLite) - всё хранится только у вас в телефоне.
