@@ -45,4 +45,14 @@
 <img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/ef920678-6c25-45b7-80f0-602e1301acf7" />
 <img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/6e72118b-e9af-4b87-8838-550e7733b149" />
 
+---
+Угостите разработчика чашечкой кофе =)
 
+Bitcoin:
+```
+bc1qpfzea5dv2638q5f2xhyl8zw4s9zf0wjm5v7t48
+```
+Карта:
+```
+Ну кто знает может скинуть)
+```
